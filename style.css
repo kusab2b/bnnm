@@ -1,0 +1,43 @@
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.doom{
+    border: 1px solid;
+    width: 365px;
+    height: 365px;
+    border: none;
+    background-color:#287e40;
+    margin-left: 32px;
+    margin-top: 32px;
+    border-radius: 12px;
+    display: inline-block;
+
+   
+    
+    
+}
+.dceu{
+    border: 1px solid;
+    width: 365px;
+    height: 365px;
+    border: none;
+    background-color: #be2877;
+    border-radius: 90px;
+    display: inline-block;
+margin-left: 30px;
+    
+    
+}
+.system{
+    border: 1px solid;
+    width: 365px;
+    height: 365px;
+    border: none;
+    background-color:#361ba4;
+   border-radius: 20px; 
+    display: inline-block;
+    margin-left: 30px;
+    
+    
+}
